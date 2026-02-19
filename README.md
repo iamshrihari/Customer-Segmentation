@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project performs customer segmentation using **RFM Analysis** (Recency, Frequency, Monetary) and applies **KMeans Clustering** to group customers into meaningful segments.
 
+Dataset used for this project: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci?resource=download
+
 This helps businesses identify:
 - High value customers
 - Loyal customers
